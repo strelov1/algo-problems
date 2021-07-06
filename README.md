@@ -2,7 +2,7 @@
 
 LeetCode Solutions groupped by **common patterns**
 
-https://docs.google.com/spreadsheets/d/1QEMbk5Ogs9oRQmbeYgF709C6orEsj-N8s2F_DHPTRIE/edit#gid=0
+https://docs.google.com/spreadsheets/d/1QEMbk5Ogs9oRQmbeYgF709C6orEsj-N8s2F_DHPTRIE/edit?usp=sharing
 
 ## Inspired by:
 https://github.com/tentenvlad/leetcode
