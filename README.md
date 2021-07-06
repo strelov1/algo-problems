@@ -13,7 +13,8 @@ https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-wi
 
 Name | Link | Pattern | Difficulty
 --- | --- | --- | ---
+[1880. Check if Word Equals Summation of Two Words](./arrays/1295_find_numbers.py) | https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/ | String | Easy
 [#961. N-Repeated Element in Size 2N Array](./arrays/961_repeated_n_times.py) | https://leetcode.com/problems/n-repeated-element-in-size-2n-array/ | Array, Hashmap | Easy
-[#1295. Find Numbers with Even Number of Digits](./arrays/1295_find_numbers.py) | https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ | Array, Hashmap | Easy
+[#1295. Find Numbers with Even Number of Digits](./arrays/1295_find_numbers.py) | https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ | Array, Hashmap | 
 
 
