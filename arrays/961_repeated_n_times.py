@@ -1,3 +1,4 @@
+# O(n) | Space: O(n)
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         seen = {}
