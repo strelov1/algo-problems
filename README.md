@@ -15,6 +15,11 @@ Name | Link | Pattern | Difficulty
 --- | --- | --- | ---
 [1880. Check if Word Equals Summation of Two Words](./strings/1880_is_sum_equal.py) | https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/ | String | Easy
 [#961. N-Repeated Element in Size 2N Array](./arrays/961_repeated_n_times.py) | https://leetcode.com/problems/n-repeated-element-in-size-2n-array/ | Array, Hashmap | Easy
-[#1295. Find Numbers with Even Number of Digits](./arrays/1295_find_numbers.py) | https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ | Array, Hashmap | 
+[#1295. Find Numbers with Even Number of Digits](./arrays/1295_find_numbers.py) | https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ | Array, Hashmap | Easy
+[#111. Minimum Depth of Binary Tree](./arrays/1299_replace_elements.py) | https://leetcode.com/problems/minimum-depth-of-binary-tree/ | Array | Easy
 
+### Codewars
+Name | Link | Pattern | Difficulty
+--- | --- | --- | ---
+[Element equals its index](./arrays/6kyu_index_equals_value.js) | https://www.codewars.com/kata/5b7176768adeae9bc9000056/train/javascript | Array, BinarySearch | Easy
 
